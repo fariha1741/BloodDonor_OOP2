@@ -1,0 +1,12 @@
+C:\Users\shajedul\source\repos\Blood Donor Management System\Blood Donor Management System\bin\Debug\Blood Donor Management System.exe.config
+C:\Users\shajedul\source\repos\Blood Donor Management System\Blood Donor Management System\bin\Debug\Blood Donor Management System.exe
+C:\Users\shajedul\source\repos\Blood Donor Management System\Blood Donor Management System\bin\Debug\Blood Donor Management System.pdb
+C:\Users\shajedul\source\repos\Blood Donor Management System\Blood Donor Management System\obj\Debug\Blood Donor Management System.csprojAssemblyReference.cache
+C:\Users\shajedul\source\repos\Blood Donor Management System\Blood Donor Management System\obj\Debug\Blood_Donor_Management_System.Login.resources
+C:\Users\shajedul\source\repos\Blood Donor Management System\Blood Donor Management System\obj\Debug\Blood_Donor_Management_System.Properties.Resources.resources
+C:\Users\shajedul\source\repos\Blood Donor Management System\Blood Donor Management System\obj\Debug\Blood Donor Management System.csproj.GenerateResource.cache
+C:\Users\shajedul\source\repos\Blood Donor Management System\Blood Donor Management System\obj\Debug\Blood Donor Management System.csproj.CoreCompileInputs.cache
+C:\Users\shajedul\source\repos\Blood Donor Management System\Blood Donor Management System\obj\Debug\Blood Donor Management System.exe
+C:\Users\shajedul\source\repos\Blood Donor Management System\Blood Donor Management System\obj\Debug\Blood Donor Management System.pdb
+C:\Users\shajedul\source\repos\Blood Donor Management System\Blood Donor Management System\obj\Debug\Blood_Donor_Management_System.signup.resources
+C:\Users\shajedul\source\repos\Blood Donor Management System\Blood Donor Management System\obj\Debug\Blood_Donor_Management_System.Donation.resources
